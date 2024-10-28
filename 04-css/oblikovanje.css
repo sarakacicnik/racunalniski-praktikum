@@ -19,6 +19,10 @@ h2 {
 .slika img {
     width: 100%;
     height: auto;
+    border-radius: 50%;
+}
+.slika p:last-child {
+    background-color: #cc0000;
 }
 body {
     /*  Barva pisave pod značko oz. oznako  */
