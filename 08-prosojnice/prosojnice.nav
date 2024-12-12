@@ -44,18 +44,36 @@
 \headcommand {\sectionentry {4}{Stolpci in slike}{25}{Stolpci in slike}{0}}
 \headcommand {\slideentry {4}{0}{1}{25/25}{}{0}}
 \headcommand {\beamer@framepages {25}{25}}
-\headcommand {\beamer@sectionpages {25}{25}}
-\headcommand {\beamer@subsectionpages {25}{25}}
-\headcommand {\sectionentry {5}{Paket \texttt {beamer} in tabele}{26}{Paket \texttt {beamer} in tabele}{0}}
-\headcommand {\slideentry {5}{0}{1}{26/26}{}{0}}
-\headcommand {\beamer@framepages {26}{26}}
-\headcommand {\beamer@sectionpages {26}{26}}
-\headcommand {\beamer@subsectionpages {26}{26}}
-\headcommand {\sectionentry {6}{Matematika, 2. del\\\large {Zaporedja, algebra, grupe}}{27}{Matematika, 2. del}{0}}
-\headcommand {\slideentry {6}{0}{1}{27/27}{}{0}}
-\headcommand {\beamer@framepages {27}{27}}
-\headcommand {\beamer@partpages {1}{27}}
-\headcommand {\beamer@subsectionpages {27}{27}}
-\headcommand {\beamer@sectionpages {27}{27}}
-\headcommand {\beamer@documentpages {27}}
-\headcommand {\gdef \inserttotalframenumber {13}}
+\headcommand {\slideentry {4}{0}{2}{26/32}{}{0}}
+\headcommand {\beamer@framepages {26}{32}}
+\headcommand {\slideentry {4}{0}{3}{33/46}{}{0}}
+\headcommand {\beamer@framepages {33}{46}}
+\headcommand {\slideentry {4}{0}{4}{47/47}{}{0}}
+\headcommand {\beamer@framepages {47}{47}}
+\headcommand {\beamer@sectionpages {25}{47}}
+\headcommand {\beamer@subsectionpages {25}{47}}
+\headcommand {\sectionentry {5}{Paket \texttt {beamer} in tabele}{48}{Paket \texttt {beamer} in tabele}{0}}
+\headcommand {\slideentry {5}{0}{1}{48/48}{}{0}}
+\headcommand {\beamer@framepages {48}{48}}
+\headcommand {\slideentry {5}{0}{2}{49/52}{}{0}}
+\headcommand {\beamer@framepages {49}{52}}
+\headcommand {\slideentry {5}{0}{3}{53/54}{}{0}}
+\headcommand {\beamer@framepages {53}{54}}
+\headcommand {\beamer@sectionpages {48}{54}}
+\headcommand {\beamer@subsectionpages {48}{54}}
+\headcommand {\sectionentry {6}{Matematika, 2. del\\\large {Zaporedja, algebra, grupe}}{55}{Matematika, 2. del}{0}}
+\headcommand {\slideentry {6}{0}{1}{55/55}{}{0}}
+\headcommand {\beamer@framepages {55}{55}}
+\headcommand {\slideentry {6}{0}{2}{56/56}{}{0}}
+\headcommand {\beamer@framepages {56}{56}}
+\headcommand {\slideentry {6}{0}{3}{57/57}{}{0}}
+\headcommand {\beamer@framepages {57}{57}}
+\headcommand {\slideentry {6}{0}{4}{58/58}{}{0}}
+\headcommand {\beamer@framepages {58}{58}}
+\headcommand {\slideentry {6}{0}{5}{59/59}{}{0}}
+\headcommand {\beamer@framepages {59}{59}}
+\headcommand {\beamer@partpages {1}{59}}
+\headcommand {\beamer@subsectionpages {55}{59}}
+\headcommand {\beamer@sectionpages {55}{59}}
+\headcommand {\beamer@documentpages {59}}
+\headcommand {\gdef \inserttotalframenumber {22}}
